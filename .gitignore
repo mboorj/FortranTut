@@ -1,0 +1,8 @@
+# ignore all
+*
+
+# allow anything with "." (files w/ extensions)
+!*.*
+
+# allow anything with "/" (directories)
+!*/
